@@ -1,11 +1,4 @@
-# Basic NFT Marketplace end to end
+# GOD NFT Marketplace
 
-This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
+This code is for the the nft marketplace of indian gods deployed on the polygon mumbai testnet.
 
-To set up the repository and run the marketplace locally, run the below
-```bash
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
-cd NFT-Marketplace-Tutorial
-npm install
-npm start
-```
